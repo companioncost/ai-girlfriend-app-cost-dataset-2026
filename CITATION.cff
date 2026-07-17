@@ -3,7 +3,7 @@ message: "If you use this dataset, cite it using the metadata below."
 title: "AI Girlfriend App Cost Dataset 2026"
 type: dataset
 version: "2026-07-16"
-date-released: "2026-07-17"
+date-released: "2026-07-16"
 doi: "10.5281/zenodo.21390586"
 authors:
   - name: "Companion Cost"

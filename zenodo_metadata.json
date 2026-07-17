@@ -1,0 +1,32 @@
+{
+  "title": "AI girlfriend app cost dataset 2026",
+  "upload_type": "dataset",
+  "description": "Source-backed 11-app dataset covering free starts, first paid walls, price evidence, 30-day planning ranges, variable spend, cancellation, refunds, privacy, deletion, source provenance, and testing status. Includes 63 linked product-owned references. This is not a recommendation ranking or a final checkout quote.",
+  "creators": [
+    {
+      "name": "Companion Cost"
+    }
+  ],
+  "publication_date": "2026-07-09",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "keywords": [
+    "AI companion pricing",
+    "AI girlfriend app cost",
+    "subscription pricing",
+    "consumer protection",
+    "credits and tokens",
+    "cancellation and refunds",
+    "privacy"
+  ],
+  "version": "2026-07-16",
+  "language": "eng",
+  "related_identifiers": [
+    {
+      "identifier": "https://companioncost.com/data/ai-girlfriend-app-cost-dataset-2026/",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ],
+  "notes": "Paid hands-on test: not completed yet. Region, tax, platform, annual billing, usage, and product changes can alter checkout prices."
+}

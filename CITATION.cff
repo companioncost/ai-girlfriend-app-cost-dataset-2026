@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this dataset, cite it using the metadata below."
+title: "AI Girlfriend App Cost Dataset 2026"
+type: dataset
+version: "2026-07-16"
+date-released: "2026-07-17"
+doi: "10.5281/zenodo.21390586"
+authors:
+  - name: "Companion Cost"
+url: "https://companioncost.com/data/ai-girlfriend-app-cost-dataset-2026/"
+repository-code: "https://github.com/companioncost/ai-girlfriend-app-cost-dataset-2026"
+license: CC-BY-4.0
+abstract: "A source-backed 11-app dataset covering free starts, first paid walls, price evidence, planning ranges, variable spend, cancellation, refunds, privacy, deletion, and testing status."
+keywords:
+  - AI companion pricing
+  - AI girlfriend app cost
+  - subscription pricing
+  - credits and tokens
+  - cancellation and refunds

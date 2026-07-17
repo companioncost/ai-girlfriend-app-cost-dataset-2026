@@ -1,0 +1,28 @@
+{
+  "title": "AI girlfriend app cost dataset 2026",
+  "version": "2026-07-16",
+  "date_published": "2026-07-09",
+  "date_modified": "2026-07-17",
+  "publisher": "Companion Cost",
+  "canonical_url": "https://companioncost.com/data/ai-girlfriend-app-cost-dataset-2026/",
+  "license": "CC-BY-4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "app_count": 11,
+  "product_source_count": 63,
+  "formats": [
+    "text/csv",
+    "application/json"
+  ],
+  "files": [
+    "ai-girlfriend-app-cost-dataset-2026.csv",
+    "ai-girlfriend-app-cost-dataset-2026.json"
+  ],
+  "citation": "Companion Cost. AI Girlfriend App Cost Dataset 2026. Version 2026-07-16. https://companioncost.com/data/ai-girlfriend-app-cost-dataset-2026/",
+  "archive": {
+    "github_repository": "https://github.com/companioncost/ai-girlfriend-app-cost-dataset-2026",
+    "record_url": "https://zenodo.org/records/21390586",
+    "version_doi": "10.5281/zenodo.21390586",
+    "concept_doi": "10.5281/zenodo.21390585"
+  },
+  "testing_status": "Paid hands-on test: not completed yet."
+}

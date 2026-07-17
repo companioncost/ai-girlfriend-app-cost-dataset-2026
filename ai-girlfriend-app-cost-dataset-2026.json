@@ -1,0 +1,793 @@
+{
+  "name": "AI girlfriend app cost dataset 2026",
+  "version": "2026-07-16",
+  "date_published": "2026-07-09",
+  "date_modified": "2026-07-17",
+  "canonical_url": "https://companioncost.com/data/ai-girlfriend-app-cost-dataset-2026/",
+  "distributions": {
+    "json": "https://companioncost.com/data/ai-girlfriend-app-cost-dataset-2026.json",
+    "csv": "https://companioncost.com/data/ai-girlfriend-app-cost-dataset-2026.csv"
+  },
+  "citation": "Companion Cost. AI Girlfriend App Cost Dataset 2026. Version 2026-07-16. https://companioncost.com/data/ai-girlfriend-app-cost-dataset-2026/",
+  "license": {
+    "name": "Creative Commons Attribution 4.0 International",
+    "url": "https://creativecommons.org/licenses/by/4.0/",
+    "note": "The Companion Cost dataset compilation and original field selection are licensed under CC BY 4.0. Third-party source pages, marks, and assets remain subject to their owners' terms."
+  },
+  "site_positioning": "SFW pre-pay audit data for AI girlfriend and AI companion app free starts, first paid walls, pricing, credits, cancellation, refunds, privacy, data deletion, and source checks.",
+  "summary": {
+    "app_count": 11,
+    "product_source_count": 63,
+    "stable_numeric_price_count": 6,
+    "checkout_verification_count": 5,
+    "variable_spend_count": 11
+  },
+  "field_definitions": {
+    "free_start": "What the current official source says can be tried before payment. It is not a promise that every feature is free.",
+    "first_paid_wall": "The first subscription, credit, coin, media, trial, or upgrade boundary most likely to turn curiosity into spend.",
+    "price_confidence": "Whether a current numeric price was verified and what still requires checkout confirmation.",
+    "planning_cost_range": "A low, expected, and high-risk 30-day planning range. It is not a final checkout quote.",
+    "variable_spend_trigger": "The usage behavior that can push cost above the headline plan.",
+    "cancellation_check": "Where cancellation is expected to happen and what billing-platform detail still needs verification.",
+    "refund_check": "The current refund limitation or route that should be checked before payment.",
+    "privacy_and_deletion": "Privacy, account deletion, data deletion, and upload controls that remain relevant before signup.",
+    "source_references": "Public product, pricing, help, terms, privacy, app-store, or policy sources used for the row. Affiliate-program-only sources are excluded.",
+    "testing_status": "The exact boundary between source research, review-account checks, and paid hands-on testing."
+  },
+  "methodology": [
+    "Rows are based on current public product, pricing, help, terms, privacy, app-store, and policy sources attached to each app.",
+    "Affiliate-program-only sources are excluded from the product-source registry and count.",
+    "A stable numeric price is published only when a current public numeric plan or signed-in price signal was verified; unresolved checkout questions remain unresolved.",
+    "Planning ranges are editorial estimates for pre-pay comparison, not final checkout quotes or guarantees.",
+    "Paid hands-on testing is not claimed. RedChat includes a separately labeled review-account pricing and policy-route check."
+  ],
+  "caveats": [
+    "Based on linked official pricing, help, terms, and privacy pages, plus public signals. Paid hands-on test: not completed yet.",
+    "Planning ranges are not final checkout quotes. Region, taxes, platform billing, token packs, annual billing, checkout state, and feature limits can change the final price.",
+    "This dataset is not a recommendation ranking.",
+    "Some links may be affiliate links. Scores do not depend on commission rate."
+  ],
+  "rows": [
+    {
+      "slug": "candy-ai",
+      "name": "Candy AI",
+      "buying_pull": "Locked media",
+      "guide_url": "https://companioncost.com/guides/candy-ai-before-you-pay/",
+      "pricing_note_url": "https://companioncost.com/pricing/candy-ai/",
+      "official_url": "https://candy.ai/",
+      "free_start": "The current official page offers a free-account start, but does not publish a reliable free-media allowance in the visible plan table. Do not assume a free trial or premium-media access without checking the live flow.",
+      "first_paid_wall": "Subscription, then tokens for image, voice, or other extended features",
+      "has_stable_numeric_price": true,
+      "price_confidence": "Current public numeric plan prices verified; final checkout still controls",
+      "base_price_signal": "Visible 2026-07-15 subscription page shows $13.99 monthly, $26.97 billed quarterly, $47.88 billed yearly, $9.79 every two weeks, and $5.60 weekly.",
+      "planning_cost_range": {
+        "low": "$0-$13.99",
+        "expected": "$13.99-$35",
+        "high": "$50-$100+",
+        "note": "The current plan page gives billed totals and 100 tokens/month, but token top-ups and media-heavy usage still need checkout/product verification."
+      },
+      "included_credits_or_tokens": "Official terms say a paid subscription includes unlimited messaging plus a monthly token amount disclosed at checkout, generally 100 per month, for extended features such as image generation or voice notes.",
+      "variable_spend_trigger": "More detailed companion creation, image, voice, video, and token top-ups may change real 30-day cost.",
+      "media_cost_notes": "Official public page presents chat, voice, image, and video as supported media. Treat visual-heavy use as a cost that can change until exact limits are verified.",
+      "cancellation_check": "Official terms and help center say subscription details are under My Profile / Settings and cancellation is through Settings / Unsubscribe. Access remains active until the end of the current billing period.",
+      "refund_check": "Official terms describe a 24-hour refund request window for subscription/non-token purchases, denial if more than 20 tokens were used, separate token-purchase limits, card-purchase limits, and EU/UK withdrawal rules. Verify the exact current terms before relying on a refund.",
+      "data_deletion_check": "Official privacy notice says users may request deletion of personal data; account data is generally retained for a period after account closure unless deletion is requested, while financial/transactional data may be retained longer for legal obligations.",
+      "privacy_check": "Official privacy notice lists account, content, payment, token-balance, moderation, and retention categories. Review it before uploading sensitive images or personal details.",
+      "billing_descriptor_check": "Official public FAQ says transactions use a neutral merchant name, but this should be verified from checkout or receipt.",
+      "best_next_step": "Run the 30-day calculator with image-heavy settings, then check official pricing.",
+      "last_checked": "2026-07-15 official subscriptions page rechecked; paid hands-on test: not completed yet",
+      "testing_status": "Paid hands-on test: not completed yet.",
+      "source_count": 6,
+      "source_references": [
+        {
+          "source_type": "Official homepage",
+          "title": "Candy AI homepage",
+          "url": "https://candy.ai/",
+          "checked_date": "2026-06-29"
+        },
+        {
+          "source_type": "Official legal page",
+          "title": "Candy AI legal information",
+          "url": "https://candy.ai/legal-information",
+          "checked_date": "2026-06-29"
+        },
+        {
+          "source_type": "Official cancellation/help page",
+          "title": "Candy AI official cancellation/help page",
+          "url": "https://everai.zendesk.com/hc/en-us/articles/31412787067289-How-do-I-cancel-my-subscription",
+          "checked_date": "2026-06-30"
+        },
+        {
+          "source_type": "Official refund/terms page",
+          "title": "Candy AI official refund/terms page",
+          "url": "https://candy.ai/terms-of-service",
+          "checked_date": "2026-06-30"
+        },
+        {
+          "source_type": "Official privacy/deletion page",
+          "title": "Candy AI official privacy/deletion page",
+          "url": "https://candy.ai/privacy-policy",
+          "checked_date": "2026-06-30"
+        },
+        {
+          "source_type": "Official subscriptions page",
+          "title": "Candy AI official subscriptions page",
+          "url": "https://candy.ai/subscriptions",
+          "checked_date": "2026-07-15"
+        }
+      ]
+    },
+    {
+      "slug": "nomi-ai",
+      "name": "Nomi",
+      "buying_pull": "Memory and continuity",
+      "guide_url": "https://companioncost.com/guides/nomi-ai-before-you-pay/",
+      "pricing_note_url": "https://companioncost.com/pricing/nomi-ai/",
+      "official_url": "https://nomi.ai/",
+      "free_start": "Official homepage rechecked 2026-07-15 says it is free to start chatting with no credit card required; exact free limits still need product check.",
+      "first_paid_wall": "Paid plan, then virtual-credit add-ons after upgrade",
+      "has_stable_numeric_price": true,
+      "price_confidence": "Current US App Store numeric plan prices verified; web checkout still needs confirmation",
+      "base_price_signal": "Standard Plan $15.99; Quarterly $39.99; Yearly $99.99. Legacy Launch Plan Monthly $9.99 and Yearly $59.99 also appear in App Store IAP.",
+      "planning_cost_range": {
+        "low": "$0-$15.99",
+        "expected": "$15.99-$25.98",
+        "high": "$35.98-$115.98+",
+        "note": "Uses App Store IAP price signals. Credit use can move the real 30-day cost above the base plan."
+      },
+      "included_credits_or_tokens": "Official terms mention free access, fee-based upgrades, and one-time add-ons acquired with virtual credits after upgrade. Exact current allowances still need product check.",
+      "variable_spend_trigger": "Paid features, group chats, video creation, voice messaging/calls, and virtual-credit add-ons may affect cost.",
+      "media_cost_notes": "Model the plan as memory-first until official media limits are verified.",
+      "cancellation_check": "Official cancellation policy says users must cancel through the platform where they purchased: web, Google Play, or Apple App Store. Deleting the app does not cancel the subscription.",
+      "refund_check": "Official refund policy says payments are generally nonrefundable for buyer remorse, lack of usage, dissatisfaction, partial months, downgrades, or unused time, with possible discretionary exceptions.",
+      "data_deletion_check": "Official privacy policy says account deletion through Account Settings deletes personal information within about 28 days after confirmation, subject to applicable limits and archived communications.",
+      "privacy_check": "Memory-first use can involve sensitive context. Review the terms and privacy policy before entering private details or media.",
+      "billing_descriptor_check": "Verify from checkout or payment receipt.",
+      "best_next_step": "Compare memory fit against media-heavy alternatives, then verify current billing terms.",
+      "last_checked": "2026-07-15 homepage and US App Store pricing rechecked; policy sources checked through 2026-06-30; paid hands-on test: not completed yet",
+      "testing_status": "Paid hands-on test: not completed yet.",
+      "source_count": 6,
+      "source_references": [
+        {
+          "source_type": "Official homepage",
+          "title": "Nomi homepage",
+          "url": "https://nomi.ai/",
+          "checked_date": "2026-07-15"
+        },
+        {
+          "source_type": "Official terms",
+          "title": "Nomi Terms",
+          "url": "https://nomi.ai/terms-of-service/",
+          "checked_date": "2026-06-30"
+        },
+        {
+          "source_type": "Official cancellation policy",
+          "title": "Nomi Cancellation Policy",
+          "url": "https://nomi.ai/cancellation-policy/",
+          "checked_date": "2026-06-29"
+        },
+        {
+          "source_type": "Official refund policy",
+          "title": "Nomi Refund Policy",
+          "url": "https://nomi.ai/refund-policy/",
+          "checked_date": "2026-06-29"
+        },
+        {
+          "source_type": "Official privacy policy",
+          "title": "Nomi Privacy Policy",
+          "url": "https://nomi.ai/privacy-policy/",
+          "checked_date": "2026-06-30"
+        },
+        {
+          "source_type": "Apple App Store in-app purchases",
+          "title": "Nomi AI App Store listing",
+          "url": "https://apps.apple.com/us/app/nomi-ai-companion-with-a-soul/id6450270929",
+          "checked_date": "2026-07-15"
+        }
+      ]
+    },
+    {
+      "slug": "kindroid",
+      "name": "Kindroid",
+      "buying_pull": "Deep character and world building",
+      "guide_url": "https://companioncost.com/guides/kindroid-before-you-pay/",
+      "pricing_note_url": "https://companioncost.com/pricing/kindroid/",
+      "official_url": "https://kindroid.ai/",
+      "free_start": "Official subscriptions help says free users get unlimited Lite messages, two Kindroids, limited selfies, and basic memory. A separate 3-day premium trial requires a payment method and auto-converts if not cancelled.",
+      "first_paid_wall": "Standard subscription, premium-trial conversion, then Ultra or MAX add-ons",
+      "has_stable_numeric_price": true,
+      "price_confidence": "Current official web and app-store numeric prices verified; trial and add-ons still matter",
+      "base_price_signal": "Standard direct web $13.99/month or $139.99/year; app store $15.99/month or $159.99/year.",
+      "planning_cost_range": {
+        "low": "$13.99-$15.99",
+        "expected": "$13.99-$44.98",
+        "high": "$98.97-$113.97+",
+        "note": "Based on the official subscriptions help page updated 2026-07-07: standard plus optional Ultra or MAX add-ons. Regional and app-store prices can vary."
+      },
+      "included_credits_or_tokens": "Official subscriptions help page lists subscriber perks including latest model access, multiple Kindroids, group chat, more selfies, custom voices, internet/link sharing, image sending, and complimentary audio credits; exact limits can change by tier.",
+      "variable_spend_trigger": "Standard subscription, Ultra/MAX add-on tiers, higher memory capacity, media features, selfie/audio usage, and app-store versus direct-web billing can change effective cost.",
+      "media_cost_notes": "Official subscriptions help page describes selfie features, voice, custom voices, video avatars/selfies, image sending, and complimentary audio credits for subscribers or add-on tiers. Verify tier limits before heavy media use.",
+      "cancellation_check": "Official subscriptions help page says web subscriptions can be updated or canceled from Billing in settings; iOS and Android subscriptions are managed through the relevant app-store settings.",
+      "refund_check": "Official subscriptions help page says refunds are considered case by case, generally not offered, and sales are final, while Kindroid reserves discretion to issue refunds.",
+      "data_deletion_check": "Official legal/privacy page was checked for privacy-rights and disclosure categories. The exact in-app account deletion or data request route still needs product or support-path confirmation before stronger claims are used.",
+      "privacy_check": "Official legal/privacy page describes personal data categories, service providers, analytics providers, privacy rights, and account termination language. Review the current legal page and in-app settings before sharing sensitive details.",
+      "billing_descriptor_check": "Verify from checkout or payment receipt.",
+      "best_next_step": "Check plan limits and add-ons, then compare against Nomi and Replika.",
+      "last_checked": "2026-07-15 official subscriptions pricing refreshed; legal/privacy source checked 2026-07-03; paid hands-on test: not completed yet",
+      "testing_status": "Paid hands-on test: not completed yet.",
+      "source_count": 2,
+      "source_references": [
+        {
+          "source_type": "Official pricing page",
+          "title": "Kindroid official pricing page",
+          "url": "https://kindroid.ai/",
+          "checked_date": "2026-06-28"
+        },
+        {
+          "source_type": "Official cancellation/help page",
+          "title": "Kindroid official cancellation/help page",
+          "url": "https://kindroid.ai/docs/article/subscriptions/",
+          "checked_date": "2026-07-15"
+        }
+      ]
+    },
+    {
+      "slug": "replika",
+      "name": "Replika",
+      "buying_pull": "Daily companion habit",
+      "guide_url": "https://companioncost.com/guides/replika-before-you-pay/",
+      "pricing_note_url": "https://companioncost.com/pricing/replika/",
+      "official_url": "https://replika.com/",
+      "free_start": "Official terms list Free Use as a limited-access free-of-charge program.",
+      "first_paid_wall": "Paid subscription tier, then optional gems or feature-specific purchases",
+      "has_stable_numeric_price": false,
+      "price_confidence": "Current store price signals found, but exact tier mapping still needs checkout confirmation",
+      "base_price_signal": "App Store IAP lists monthly products at $7.99 and $14.99; exact tier mapping needs checkout confirmation.",
+      "planning_cost_range": {
+        "low": "$0-$14.99",
+        "expected": "$14.99-$34.98",
+        "high": "$49.99-$109.98+",
+        "note": "Uses App Store IAP price signals. Annual products, Platinum, and gem purchases can make first-month cash outlay higher than a monthly plan."
+      },
+      "included_credits_or_tokens": "Official terms list Replika Pro, Ultra, and Platinum as paid subscription programs with feature differences; exact current limits/prices need app/store check.",
+      "variable_spend_trigger": "Subscription tier, app marketplace billing, premium activities, selfies/image generation, voice messaging, background calls, and higher-tier features should be checked before purchase.",
+      "media_cost_notes": "Official terms list selfies/image generation and voice messaging under Pro, and realistic selfie videos/video recognition under Platinum. Verify current in-app limits.",
+      "cancellation_check": "Official help says subscriptions renew automatically unless canceled in advance and must be canceled through the same platform used to subscribe, including in-app/web, Google Play, or Apple App Store routes.",
+      "refund_check": "Official refund help says Replika digital subscription purchases are generally final once payment is completed; Apple App Store and Google Play purchases are handled by those platforms.",
+      "data_deletion_check": "Official privacy policy says users can delete their account in account settings and request deletion of personal data, including sensitive information handling described in the policy.",
+      "privacy_check": "Official privacy policy says users are strongly encouraged not to share special categories of sensitive personal data and describes deletion request rights and provider deletion instructions.",
+      "billing_descriptor_check": "Verify from checkout or payment receipt.",
+      "best_next_step": "Verify cancellation route for your signup platform before subscribing.",
+      "last_checked": "2026-07-03 official help, terms, and privacy sources checked; paid hands-on test: not completed yet",
+      "testing_status": "Paid hands-on test: not completed yet.",
+      "source_count": 6,
+      "source_references": [
+        {
+          "source_type": "Official pricing page",
+          "title": "Replika official pricing page",
+          "url": "https://replika.com/",
+          "checked_date": "2026-06-28"
+        },
+        {
+          "source_type": "Official cancellation/help page",
+          "title": "Replika official cancellation/help page",
+          "url": "https://help.replika.com/hc/en-us/articles/360032500012-How-to-cancel-your-subscription",
+          "checked_date": "2026-06-30"
+        },
+        {
+          "source_type": "Official refund/terms page",
+          "title": "Replika official refund/terms page",
+          "url": "https://help.replika.com/hc/en-us/articles/37121950896909-Refund-Policy",
+          "checked_date": "2026-06-30"
+        },
+        {
+          "source_type": "Official privacy/deletion page",
+          "title": "Replika official privacy/deletion page",
+          "url": "https://replika.com/legal/privacy",
+          "checked_date": "2026-06-30"
+        },
+        {
+          "source_type": "Apple App Store in-app purchases",
+          "title": "Replika App Store listing",
+          "url": "https://apps.apple.com/us/app/replika-my-ai-friend/id1158555867",
+          "checked_date": "2026-06-30"
+        },
+        {
+          "source_type": "Official terms page",
+          "title": "Replika official terms page",
+          "url": "https://replika.com/legal/terms",
+          "checked_date": "2026-07-03"
+        }
+      ]
+    },
+    {
+      "slug": "heygf",
+      "name": "HeyGF",
+      "buying_pull": "Build-your-type controls",
+      "guide_url": "https://companioncost.com/guides/heygf-before-you-pay/",
+      "pricing_note_url": "https://companioncost.com/guides/heygf-before-you-pay/",
+      "official_url": "https://heygf.ai/",
+      "free_start": "HeyGF's official homepage checked 2026-07-15 says basic conversations are free with no credit card required. Premium photos, videos, and enhanced intimate chat require a subscription.",
+      "first_paid_wall": "Paid plan tier, then coins for premium photos, video, or enhanced chat",
+      "has_stable_numeric_price": true,
+      "price_confidence": "Current official numeric plan and coin allowances verified; action-level coin use still needs product check",
+      "base_price_signal": "Official About page checked 2026-07-15 lists Casual $9.99/month with 150 coins, Closer $19.99 with 350 coins, and Exclusive $39.99 with 800 coins.",
+      "planning_cost_range": {
+        "low": "$8.33 annual equivalent or $9.99 monthly",
+        "expected": "$19.99-$39.99",
+        "high": "$39.99-$80+",
+        "note": "Based on current official monthly tiers plus earlier official annual monthly-equivalent snapshots. Coin top-ups, media use, taxes, and checkout state can raise the real cost."
+      },
+      "included_credits_or_tokens": "Official About page lists 150 coins/month on Casual, 350 on Closer, and 800 on Exclusive. Verify exactly which photo, video, and premium-content actions consume coins before paying.",
+      "variable_spend_trigger": "Customization features, media generation, credits, upgrades, renewals, and checkout add-ons may change real 30-day cost.",
+      "media_cost_notes": "Treat as a customization-led adult companion candidate. Keep Companion Cost SFW and verify media pricing before making stronger claims.",
+      "cancellation_check": "Official terms say subscriptions auto-renew until canceled and can be canceled through account settings, with access continuing until the current billing period ends.",
+      "refund_check": "Official terms say partial subscription periods and one-time purchases such as coin packs or custom media are generally not credited or refunded, with exceptional cases handled at provider discretion.",
+      "data_deletion_check": "Official privacy policy says users may request access, correction, or deletion of personal data through the stated contact route, subject to applicable limits.",
+      "privacy_check": "Official privacy policy lists account, payment, messages, AI responses, images/media, preferences, device, usage, and log data. Review training, retention, and opt-out/account-setting language before uploading photos or private details.",
+      "billing_descriptor_check": "Verify from checkout or payment receipt.",
+      "best_next_step": "Use the Cost & Subscription Hub first, then check HeyGF official terms and checkout before paying.",
+      "last_checked": "2026-07-15 official homepage and About pricing refreshed; terms/privacy checked 2026-07-01; paid hands-on test: not completed yet",
+      "testing_status": "Paid hands-on test: not completed yet.",
+      "source_count": 5,
+      "source_references": [
+        {
+          "source_type": "Official pricing page",
+          "title": "HeyGF official pricing page",
+          "url": "https://heygf.ai/pricing",
+          "checked_date": "2026-07-01"
+        },
+        {
+          "source_type": "Official pricing and free-tier page",
+          "title": "HeyGF official About page",
+          "url": "https://heygf.ai/about",
+          "checked_date": "2026-07-15"
+        },
+        {
+          "source_type": "Official homepage",
+          "title": "HeyGF official free-start homepage",
+          "url": "https://heygf.ai/",
+          "checked_date": "2026-07-15"
+        },
+        {
+          "source_type": "Official privacy/deletion page",
+          "title": "HeyGF official privacy/deletion page",
+          "url": "https://heygf.ai/privacy",
+          "checked_date": "2026-07-01"
+        },
+        {
+          "source_type": "Official terms page",
+          "title": "HeyGF official terms page",
+          "url": "https://heygf.ai/terms",
+          "checked_date": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "slug": "girlfriendgpt",
+      "name": "GirlfriendGPT",
+      "buying_pull": "Short free chat before the limit",
+      "guide_url": "https://companioncost.com/guides/is-girlfriendgpt-worth-it-before-you-pay/",
+      "pricing_note_url": "https://companioncost.com/guides/is-girlfriendgpt-worth-it-before-you-pay/",
+      "official_url": "https://www.gptgirlfriend.online/",
+      "free_start": "Official terms checked 2026-07-15 say core services are available at no charge. They give an example of up to 2 or 3 characters and about 10 to 20 messages in total before chat stops, with some additional free credits available through specified tasks.",
+      "first_paid_wall": "Free-message limit, then subscription tier and monthly message credits",
+      "has_stable_numeric_price": false,
+      "price_confidence": "Official free and paid credit structure verified; current numeric checkout price not verified",
+      "base_price_signal": "Official GirlfriendGPT terms checked 2026-07-15 describe a limited free core and paid subscriptions, but no exact current public checkout price was verified.",
+      "planning_cost_range": {
+        "low": "$0 limited start",
+        "expected": "Verify live upgrade screen",
+        "high": "Tier and extra-credit dependent",
+        "note": "Public terms confirm subscriptions and additional credit purchases but do not expose the current checkout price. Use only the live GirlfriendGPT upgrade screen for exact pricing."
+      },
+      "included_credits_or_tokens": "Official terms give an example of about 10 to 20 total messages for free users. Paid subscriptions include 5,000 to 20,000 message credits per month depending on tier; credits reset monthly and do not roll over.",
+      "variable_spend_trigger": "The first clear spend trigger is reaching the free message limit. More characters, continued chat, a higher monthly credit allowance, and additional credits can move the user into paid access.",
+      "media_cost_notes": "GirlfriendGPT presents character, image, and adult roleplay features, but exact current image, voice, or video credit charges were not verified on a public price page. Check the in-product meter before treating the subscription as all-inclusive.",
+      "cancellation_check": "Official terms say recurring billing can be stopped from the account manage-subscription page before the next billing cycle. They also describe CCBill cancellation; cancellation stops future rebilling but does not refund the unused part of the current cycle.",
+      "refund_check": "Official terms say paid subscriptions are generally not refunded. Limited exceptions may be considered for provider error or technical issues; CCBill purchases follow that processor's route, while other requests go to GirlfriendGPT support and are reviewed case by case.",
+      "data_deletion_check": "Official privacy wording provides access, restriction, consent-withdrawal, and erasure rights, but also says personal information is usually retained for six years after account closure and that erasure requests may be limited for legal reasons.",
+      "privacy_check": "Official privacy wording covers account details, discussions with AI companions, usage, browser and location data, cookies, communications, moderation, service providers, and marketing analysis. It says account data is usually retained for six years after closure, so account deletion should not be described as immediate total deletion.",
+      "billing_descriptor_check": "Verify the descriptor on checkout and the receipt. Official terms name CCBill and TrustPay in recurring-transaction cancellation language but do not publish one universal statement descriptor.",
+      "best_next_step": "Use the limited free messages to test fit, then capture the exact live upgrade price, billing period, monthly credits, renewal date, processor, and cancellation route before paying.",
+      "last_checked": "2026-07-15 official GirlfriendGPT terms, privacy, homepage identity, and public CrakRevenue offer checked; paid hands-on test not completed",
+      "testing_status": "Paid hands-on test: not completed yet.",
+      "source_count": 2,
+      "source_references": [
+        {
+          "source_type": "Official refund and cancellation terms",
+          "title": "GirlfriendGPT official refund and recurring-transaction policies",
+          "url": "https://www.gptgirlfriend.online/legal/terms",
+          "checked_date": "2026-07-15"
+        },
+        {
+          "source_type": "Official privacy/deletion page",
+          "title": "GirlfriendGPT official privacy notice",
+          "url": "https://www.gptgirlfriend.online/legal/privacy",
+          "checked_date": "2026-07-15"
+        }
+      ]
+    },
+    {
+      "slug": "nectar-ai",
+      "name": "Nectar AI",
+      "buying_pull": "Visual creator flow",
+      "guide_url": "https://companioncost.com/guides/nectar-ai-before-you-pay/",
+      "pricing_note_url": "https://companioncost.com/guides/nectar-ai-before-you-pay/",
+      "official_url": "https://trynectar.ai/",
+      "free_start": "Official pages allow starting or creating, but current free limits, paywall timing, and feature limits still need product-side verification.",
+      "first_paid_wall": "Creator flow checkout, then image, video, or customization limits",
+      "has_stable_numeric_price": false,
+      "price_confidence": "Current official product sources checked; stable public numeric checkout price not verified",
+      "base_price_signal": "No stable public numeric price is used on Companion Cost yet. Verify current checkout before paying.",
+      "planning_cost_range": {
+        "low": "Checkout verification needed",
+        "expected": "Feature and checkout dependent",
+        "high": "Image/video/custom-character-heavy use may exceed the base plan",
+        "note": "Use a visual-heavy scenario until current price, included media limits, and paid generation rules are verified."
+      },
+      "included_credits_or_tokens": "Needs checkout and product verification before a stronger claim.",
+      "variable_spend_trigger": "Image generation, video, character creation, reference-photo use, retries, roleplay features, private galleries, upgrades, renewal, and checkout add-ons may change the real 30-day cost.",
+      "media_cost_notes": "Official pages present image and video features. Treat visual-heavy use as the main cost-risk scenario until exact included limits and paid-generation rules are verified.",
+      "cancellation_check": "Official terms say subscriptions may recur and can be canceled through profile settings or by contacting support/Discord, with access generally continuing until the end of the paid period. Verify the current account route before relying on it.",
+      "refund_check": "Official terms say paid subscription fees are non-refundable except as required by law or case-by-case exceptions. Verify the current terms and checkout before paying.",
+      "data_deletion_check": "Official terms say account deletion is available by following app or site instructions. The exact current in-app deletion flow still needs product-side verification.",
+      "privacy_check": "Official privacy page says security measures are used but cannot guarantee against breach. Review privacy, upload, account, and deletion wording before sharing private images or identifying details.",
+      "billing_descriptor_check": "Verify from checkout or payment receipt.",
+      "best_next_step": "Use the media-cost and private-upload checks, then verify the current Nectar checkout before paying.",
+      "last_checked": "2026-07-10 official sources and Everflow tracking link checked; paid hands-on test: not completed yet",
+      "testing_status": "Paid hands-on test: not completed yet.",
+      "source_count": 4,
+      "source_references": [
+        {
+          "source_type": "Official homepage",
+          "title": "TryNectar AI Girlfriend homepage",
+          "url": "https://trynectar.ai/",
+          "checked_date": "2026-07-10"
+        },
+        {
+          "source_type": "Official terms page",
+          "title": "TryNectar Terms of Service",
+          "url": "https://trynectar.ai/tos",
+          "checked_date": "2026-07-10"
+        },
+        {
+          "source_type": "Official privacy page",
+          "title": "TryNectar Privacy Policy",
+          "url": "https://trynectar.ai/privacy",
+          "checked_date": "2026-07-10"
+        },
+        {
+          "source_type": "Official character creator page",
+          "title": "TryNectar AI character creator",
+          "url": "https://trynectar.ai/girls/create",
+          "checked_date": "2026-07-10"
+        }
+      ]
+    },
+    {
+      "slug": "kupid-ai",
+      "name": "Kupid AI",
+      "buying_pull": "Body setup and adult chat",
+      "guide_url": "https://companioncost.com/guides/custom-ai-girlfriend-character-creator-before-you-pay/",
+      "pricing_note_url": "https://companioncost.com/guides/custom-ai-girlfriend-character-creator-before-you-pay/",
+      "official_url": "https://www.kupid.ai/",
+      "free_start": "Official AI Girlfriend page says sign-up includes unlimited chat for free, hot actions unlocked in chat, create your own AI, and access to spicy content. The direct create page says no card is needed to start, but actual limits, paywall timing, media rules, and renewal remain checkout-dependent.",
+      "first_paid_wall": "Free builder or chat start, then adult-chat, media, or upgrade limits",
+      "has_stable_numeric_price": false,
+      "price_confidence": "Current official free-start and feature claims checked; numeric checkout price not verified",
+      "base_price_signal": "No stable numeric public price is used on Companion Cost yet. Verify the current Kupid checkout before paying.",
+      "planning_cost_range": {
+        "low": "Free-start session if current page allows it",
+        "expected": "Checkout verification needed after builder or spicy chat pull",
+        "high": "Adult chat, images, videos, voice notes, character creation, and upgrades may exceed the first visible plan",
+        "note": "Use a builder and adult-chat scenario until current plan price, media limits, and checkout add-ons are verified."
+      },
+      "included_credits_or_tokens": "Needs checkout and product verification before a stronger claim. Do not assume adult chat, images, video, voice notes, body/preference controls, or custom-character actions are unlimited after signup.",
+      "variable_spend_trigger": "Create-girlfriend flow, adult chat, body and preference controls, relationship setup, images, videos, voice notes, locked or spicy content, profile choices, upgrades, renewals, and repeated media actions can change the real cost.",
+      "media_cost_notes": "Official terms say media can include images, videos, and voice notes, and the AI sex chat page describes custom images and videos. Price and limits should be checked before visual-heavy use, private upload, or repeated adult chat.",
+      "cancellation_check": "Official terms say subscription rebilling cancellation requests go through support email. Verify the current account and checkout route before relying on cancellation.",
+      "refund_check": "Official terms say digital product sales are final and non-refundable once provided, and say subscriptions accessed or used after purchase are not refunded, returned, or canceled. Verify current terms before paying.",
+      "data_deletion_check": "Official privacy policy says personal information may usually be retained for six years after account closure, subject to requirements. Exact in-app account deletion and content deletion steps still need product-side verification.",
+      "privacy_check": "Official terms warn users not to disclose sensitive personal information in AI companion conversations, say security cannot be guaranteed, and say moderation may include automated checks and manual review. Official privacy policy lists account, content, communication, device, usage, analytics, advertising, and sensitive-information caveats.",
+      "billing_descriptor_check": "Official terms say payments are processed by SNB Technologies LTD. Verify the visible billing descriptor from checkout or receipt before relying on it.",
+      "best_next_step": "Use the builder or adult-intent check, then verify Kupid checkout, media limits, refund wording, cancellation, and privacy before paying.",
+      "last_checked": "2026-07-14 official sources and partner screenshots checked; paid hands-on test: not completed yet",
+      "testing_status": "Paid hands-on test: not completed yet.",
+      "source_count": 3,
+      "source_references": [
+        {
+          "source_type": "Official product page",
+          "title": "Kupid AI girlfriend page",
+          "url": "https://www.kupid.ai/ai-girlfriend",
+          "checked_date": "2026-07-14"
+        },
+        {
+          "source_type": "Official terms page",
+          "title": "Kupid AI Terms of Service",
+          "url": "https://www.kupid.ai/terms-of-service",
+          "checked_date": "2026-07-14"
+        },
+        {
+          "source_type": "Official privacy page",
+          "title": "Kupid AI Privacy Policy",
+          "url": "https://www.kupid.ai/privacy-policy",
+          "checked_date": "2026-07-14"
+        }
+      ]
+    },
+    {
+      "slug": "ourdream-ai",
+      "name": "OurDream AI",
+      "buying_pull": "Deluxe annual and dreamcoin media",
+      "guide_url": "https://companioncost.com/guides/ourdream-ai-deluxe-annual-before-you-pay/",
+      "pricing_note_url": "https://companioncost.com/guides/ourdream-ai-deluxe-annual-before-you-pay/",
+      "official_url": "https://ourdream.ai/",
+      "free_start": "Official site is 18+ and allows account/product exploration, but current free limits and paywall timing need product-side verification.",
+      "first_paid_wall": "Subscription or Deluxe annual checkout, then dreamcoin-heavy media use",
+      "has_stable_numeric_price": true,
+      "price_confidence": "Official monthly price found; annual examples conflict, so final checkout total must be verified",
+      "base_price_signal": "Official help lists monthly at $19.99/month with 1,000 dreamcoins, but annual examples conflict and final checkout must be verified.",
+      "planning_cost_range": {
+        "low": "$19.99/month if current checkout matches official monthly help",
+        "expected": "Checkout-dependent annual or Deluxe annual total",
+        "high": "$359.88 Deluxe annual context plus dreamcoin-heavy media use",
+        "note": "Use a visual-heavy scenario because official help lists dreamcoin costs for images, video, voice, narration, creator actions, and community packs."
+      },
+      "included_credits_or_tokens": "Official help says paid subscribers receive dreamcoins and lists media actions that can consume dreamcoins. Exact current plan allowances and renewal timing should be verified at checkout.",
+      "variable_spend_trigger": "Image generation, image editing, in-chat images, video seconds, ultra/enhanced video, voice calls, narration, chatbot creation, community packs, annual upgrades, and renewal can change real cost.",
+      "media_cost_notes": "Official help lists examples including in-chat image costs, voice-call per-minute costs, and video dreamcoin costs per 5 seconds. Visual-heavy use should be modeled before paying.",
+      "cancellation_check": "Official help says subscription cancellation is available through profile/account cancellation steps, with access typically retained until the billing period ends. Verify the current route before paying.",
+      "refund_check": "Official help describes refund eligibility limits, product-use limits, no automatic refunds for cancellation, and different refund handling for card and crypto payments. Verify current terms before relying on a refund.",
+      "data_deletion_check": "Official help says account deletion is permanent, removes characters, generations, chat history, unused coins, and access, and can take 24-48 hours to process; active subscriptions are described as automatically canceled during deletion.",
+      "privacy_check": "Official safety and help pages describe adult creative use, no minor content, no real-person likeness policy, no selling chats, account deletion, and no reference-photo uploads due to deepfake/legal concerns. Do not treat this as complete privacy or safety.",
+      "billing_descriptor_check": "Verify from checkout or receipt.",
+      "best_next_step": "Check dreamcoin burn and refund risk, then verify the current OurDream checkout total before paying.",
+      "last_checked": "2026-07-11 official sources, affiliate page, and Everflow dashboard captures checked; paid hands-on test: not completed yet",
+      "testing_status": "Paid hands-on test: not completed yet.",
+      "source_count": 9,
+      "source_references": [
+        {
+          "source_type": "Official homepage",
+          "title": "OurDream AI homepage",
+          "url": "https://ourdream.ai/",
+          "checked_date": "2026-07-11"
+        },
+        {
+          "source_type": "Official help center",
+          "title": "OurDream help center",
+          "url": "https://help.ourdream.ai/",
+          "checked_date": "2026-07-11"
+        },
+        {
+          "source_type": "Official pricing help",
+          "title": "OurDream monthly vs annual help",
+          "url": "https://help.ourdream.ai/en/articles/8757441",
+          "checked_date": "2026-07-11"
+        },
+        {
+          "source_type": "Official refund help",
+          "title": "OurDream refund policy help",
+          "url": "https://help.ourdream.ai/en/articles/8717377",
+          "checked_date": "2026-07-11"
+        },
+        {
+          "source_type": "Official cancellation help",
+          "title": "OurDream cancel subscription help",
+          "url": "https://help.ourdream.ai/en/articles/7617729",
+          "checked_date": "2026-07-11"
+        },
+        {
+          "source_type": "Official deletion help",
+          "title": "OurDream delete account help",
+          "url": "https://help.ourdream.ai/en/articles/8717633",
+          "checked_date": "2026-07-11"
+        },
+        {
+          "source_type": "Official dreamcoin help",
+          "title": "OurDream dreamcoin costs help",
+          "url": "https://help.ourdream.ai/en/articles/10808513",
+          "checked_date": "2026-07-11"
+        },
+        {
+          "source_type": "Official photo upload help",
+          "title": "OurDream upload photos help",
+          "url": "https://help.ourdream.ai/en/articles/11104449",
+          "checked_date": "2026-07-11"
+        },
+        {
+          "source_type": "Official safety docs",
+          "title": "OurDream safety introduction",
+          "url": "https://safety.ourdream.ai/introduction",
+          "checked_date": "2026-07-11"
+        }
+      ]
+    },
+    {
+      "slug": "redchat-ai",
+      "name": "RedChat",
+      "buying_pull": "Adult roleplay and repeated reveals",
+      "guide_url": "https://companioncost.com/guides/redchat-before-you-pay/",
+      "pricing_note_url": "https://companioncost.com/pricing/redchat-ai/",
+      "official_url": "https://www.redchat.app/",
+      "free_start": "Official docs say default-model chat is unlimited on every tier and the signed-in perks table includes a Free plan. Premium usage, images, album unlocks, Auto Summary, and RP/SP spend can still apply.",
+      "first_paid_wall": "Silver or Gold membership, then RP/SP use for premium models and media",
+      "has_stable_numeric_price": true,
+      "price_confidence": "Signed-in Silver and Gold prices observed; plan-state mismatch and final checkout still need confirmation",
+      "base_price_signal": "Signed-in pricing screen observed Gold Membership at $24.99/month and the perks table showed Silver at $7.99/mo. A separate profile/settings check displayed Free Member / Free Plan on the review account, creating a plan-status mismatch that still needs RedChat confirmation.",
+      "planning_cost_range": {
+        "low": "Free-start or browse session if the current product flow allows it",
+        "expected": "$7.99/mo Silver or $24.99/mo Gold plus RP/SP use depending on feature choices",
+        "high": "Story Point packs, image generation, album unlocks, premium-model overage, Mood Snap unlocks, larger balances, renewals, or upgrades can exceed the first visible plan",
+        "note": "Use a plan-plus-RP scenario until the current checkout total, taxes, renewal copy, and payment descriptor are confirmed."
+      },
+      "included_credits_or_tokens": "Official docs describe RP as a permanent currency that never expires and is spent on premium-model usage after weekly allowance plus extras such as image generation, Mood Snap unlocks, longer replies, and Auto Summary on Free/Silver. The app pricing route uses Story Point / SP wording, so current UI wording should be checked before paying.",
+      "variable_spend_trigger": "Adult chat momentum, premium model usage after allowance, image generation, album unlocks, Mood Snap unlocks, longer replies, Auto Summary on lower tiers, upgrades, monthly or yearly plans, RP/SP packs, renewals, and larger discounted balances can change real cost.",
+      "media_cost_notes": "Signed-in pricing screen showed image generation at 100 SP/use and album unlocks at 50 SP/use on Free/Silver, with Gold shown as included/free. Official GitBook cost docs say image generation is 300 RP each and Mood Snap unlock is 50 RP each. Verify the current UI and checkout before visual-heavy use because official docs and app screen are not perfectly aligned.",
+      "cancellation_check": "Official policy says cancellation stops future renewals and access continues until the end of the current billing period. On the Free review account, Settings and Payment History did not show a paid-subscription manage/cancel control, so the exact paid-user cancellation click path still needs RedChat or paid-account confirmation.",
+      "refund_check": "Official Subscription & Refund Policy says RP is non-refundable and non-transferable, and RedChat does not refund unused time, mid-cycle cancellation, downgrades, disliked content, or moderation actions except where law or policy requires.",
+      "data_deletion_check": "Signed-in account UI showed Profile / user menu > Settings > Account > Delete Account on 2026-07-14. The destructive step was not opened. Whether that final flow deletes chats/generated content or requires a separate privacy/support request still needs RedChat confirmation.",
+      "privacy_check": "Official privacy policy treats intimate conversations and adult imagery as sensitive/special-category personal data, says RedChat does not sell personal information, and says private chats/generated adult images are not used to train models serving other users unless the user explicitly opts in. It also says content may be processed by AI model providers, hosting subprocessors, and moderation systems.",
+      "billing_descriptor_check": "Payment History was checked on the Free review account and showed no payment history found. Verify descriptor from checkout or receipt; do not assume the bank statement descriptor from the product name or affiliate email.",
+      "best_next_step": "Use the RedChat pre-pay page, then verify current plan state, checkout total, tax, payment descriptor, renewal, RP/SP burn, paid cancellation click path, refund wording, deletion scope, and privacy before paying.",
+      "last_checked": "2026-07-14 official app routes, signed-in pricing, profile/settings, payment history, referral route, GitBook 33-page index, linked Channel.io help pages, and partner email checked; paid hands-on test: not completed yet",
+      "testing_status": "Review-account pricing and policy routes checked; paid hands-on test: not completed yet.",
+      "source_count": 15,
+      "source_references": [
+        {
+          "source_type": "Official app homepage",
+          "title": "RedChat app homepage",
+          "url": "https://www.redchat.app/",
+          "checked_date": "2026-07-14"
+        },
+        {
+          "source_type": "Official subscription route",
+          "title": "RedChat signed-in subscription route",
+          "url": "https://www.redchat.app/subscription-price",
+          "checked_date": "2026-07-14"
+        },
+        {
+          "source_type": "Official terms markdown",
+          "title": "RedChat Terms and Conditions",
+          "url": "https://powerfan-1.gitbook.io/redchat.app/policies/terms-and-conditions.md",
+          "checked_date": "2026-07-14"
+        },
+        {
+          "source_type": "Official privacy markdown",
+          "title": "RedChat Privacy Policy",
+          "url": "https://powerfan-1.gitbook.io/redchat.app/policies/privacy-policy.md",
+          "checked_date": "2026-07-14"
+        },
+        {
+          "source_type": "Official refund markdown",
+          "title": "RedChat Subscription & Refund Policy",
+          "url": "https://powerfan-1.gitbook.io/redchat.app/policies/subscription-refund-policy.md",
+          "checked_date": "2026-07-14"
+        },
+        {
+          "source_type": "Official RP cost markdown",
+          "title": "RedChat Red Points & Costs",
+          "url": "https://powerfan-1.gitbook.io/redchat.app/guides/red-points-and-costs.md",
+          "checked_date": "2026-07-14"
+        },
+        {
+          "source_type": "Official plan FAQ markdown",
+          "title": "RedChat Plans & RP Usage",
+          "url": "https://powerfan-1.gitbook.io/redchat.app/faq/faq-plans-rp.md",
+          "checked_date": "2026-07-14"
+        },
+        {
+          "source_type": "Official account settings route",
+          "title": "RedChat signed-in profile and settings route",
+          "url": "https://www.redchat.app/settings",
+          "checked_date": "2026-07-14"
+        },
+        {
+          "source_type": "Official payment history route",
+          "title": "RedChat signed-in payment history route",
+          "url": "https://www.redchat.app/payment-history",
+          "checked_date": "2026-07-14"
+        },
+        {
+          "source_type": "Official documentation index",
+          "title": "RedChat GitBook llms.txt and site-index",
+          "url": "https://powerfan-1.gitbook.io/redchat.app/llms.txt",
+          "checked_date": "2026-07-14"
+        },
+        {
+          "source_type": "Official safety markdown",
+          "title": "RedChat Content & Safety Guidelines",
+          "url": "https://powerfan-1.gitbook.io/redchat.app/policies/content-safety-guidelines.md",
+          "checked_date": "2026-07-14"
+        },
+        {
+          "source_type": "Official links markdown",
+          "title": "RedChat Links & Resources",
+          "url": "https://powerfan-1.gitbook.io/redchat.app/policies/links.md",
+          "checked_date": "2026-07-14"
+        },
+        {
+          "source_type": "Official referral route",
+          "title": "RedChat signed-in referral route",
+          "url": "https://www.redchat.app/referral",
+          "checked_date": "2026-07-14"
+        },
+        {
+          "source_type": "Official linked help page",
+          "title": "Storychat Channel.io Referral Program",
+          "url": "https://docs.channel.io/storychatdocs/en/articles/Referral-Program-f03a0e4f",
+          "checked_date": "2026-07-14"
+        },
+        {
+          "source_type": "Official app route sweep",
+          "title": "RedChat signed-in app route sweep",
+          "url": "https://www.redchat.app/my-profile",
+          "checked_date": "2026-07-14"
+        }
+      ]
+    },
+    {
+      "slug": "ohchat",
+      "name": "OhChat",
+      "buying_pull": "Licensed creator familiarity and PPV access",
+      "guide_url": "https://companioncost.com/guides/ohchat-before-you-pay/",
+      "pricing_note_url": "https://companioncost.com/pricing/ohchat/",
+      "official_url": "https://www.ohchat.com/",
+      "free_start": "The public site can introduce the companion and creator experience, but current free-message limits, preview limits, paywall timing, and media access were not verified. Do not assume a preview means continued text, voice, images, video, or streams remain free.",
+      "first_paid_wall": "Initial paid purchase, then subscription renewal, PPV media, bundles, or premium interactions",
+      "has_stable_numeric_price": false,
+      "price_confidence": "Official subscription and PPV terms verified; current numeric consumer billing price not verified",
+      "base_price_signal": "No stable public numeric checkout price is used on Companion Cost yet. Verify the current OhChat billing page before paying.",
+      "planning_cost_range": {
+        "low": "Browse or preview only if the current route allows it",
+        "expected": "Verify the initial paid purchase plus likely PPV or premium use",
+        "high": "Subscription renewal plus repeated PPV media, premium interactions, bundles, or enhanced AI content",
+        "note": "OhChat's public terms describe both subscriptions and pay-per-view purchases. Model the repeated action that attracted you, not only the first billing amount."
+      },
+      "included_credits_or_tokens": "No reliable public allowance table was verified. Before paying, confirm what the first purchase includes and whether continued chat, voice, images, video, streams, PPV reveals, or premium interactions require separate purchases.",
+      "variable_spend_trigger": "Creator familiarity, one-more-message momentum, PPV media, premium interactions, media bundles, enhanced AI content, voice, image, video, live-cam-style streams, renewals, and repeated reveals can raise the real 30-day cost.",
+      "media_cost_notes": "Official product and terms pages describe text, voice, image, video, and stream-style experiences plus PPV or premium content. Exact current prices, included media, retries, and access duration require live product and billing verification.",
+      "cancellation_check": "Official terms say a subscription can be canceled to stop future renewal, while access and charges for the current billing period are not automatically reversed. Verify the current account or support route before relying on cancellation.",
+      "refund_check": "Official terms say subscriptions are generally not refunded for the current period after cancellation, and PPV content, media bundles, premium interactions, and enhanced AI content are final and non-refundable except where law requires otherwise.",
+      "data_deletion_check": "Official privacy wording provides a deletion-request contact route and says privacy requests are generally answered within 30 days. The exact current self-service account deletion path and the scope of chat, upload, generated-media, and transaction deletion still need verification.",
+      "privacy_check": "Official privacy wording covers account and age-confirmation data, IP/device/session data, page and referrer data, transaction status and limited billing metadata, messages, AI interactions, uploads, reports, and moderation flags. Creator likeness licensing does not make a user's own chats, uploads, or billing data automatically private.",
+      "billing_descriptor_check": "Verify the processor and card or bank descriptor on the live billing page and receipt. No universal OhChat statement descriptor was verified from a completed purchase.",
+      "best_next_step": "Open the OhChat pre-pay guide first, then verify the initial billing amount, what the purchase unlocks, repeated PPV or premium costs, renewal, refund wording, cancellation route, privacy handling, and deletion scope before paying.",
+      "last_checked": "2026-07-16 official homepage, terms, privacy, cookie, 2257, and approved CrakRevenue offer checked; paid hands-on test: not completed yet",
+      "testing_status": "Paid hands-on test: not completed yet.",
+      "source_count": 5,
+      "source_references": [
+        {
+          "source_type": "Official product homepage",
+          "title": "OhChat homepage",
+          "url": "https://www.ohchat.com/",
+          "checked_date": "2026-07-16"
+        },
+        {
+          "source_type": "Official terms",
+          "title": "OhChat Terms of Service",
+          "url": "https://www.ohchat.com/terms",
+          "checked_date": "2026-07-16"
+        },
+        {
+          "source_type": "Official privacy policy",
+          "title": "OhChat Privacy Policy",
+          "url": "https://www.ohchat.com/privacy-policy",
+          "checked_date": "2026-07-16"
+        },
+        {
+          "source_type": "Official cookie policy",
+          "title": "OhChat Cookie Policy",
+          "url": "https://www.ohchat.com/cookie-policy",
+          "checked_date": "2026-07-16"
+        },
+        {
+          "source_type": "Official age and creator-likeness statement",
+          "title": "OhChat 2257 Statement",
+          "url": "https://www.ohchat.com/2257",
+          "checked_date": "2026-07-16"
+        }
+      ]
+    }
+  ]
+}
